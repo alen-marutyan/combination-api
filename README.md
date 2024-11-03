@@ -12,11 +12,11 @@ This API generates combinations from a list of items and stores them in a MySQL 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/combination-api.git
+git clone https://github.com/alen-marutyan/combination-api.git
 cd combination-api
+```
 
-
-## Start the Server
+### 2. Start the Server
 
 ```bash
 npm start
